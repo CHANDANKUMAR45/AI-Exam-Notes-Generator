@@ -272,10 +272,10 @@ This is a personal project for interview demonstration. For improvements or feat
 
 ## 📞 Contact
 
-- **Portfolio**: [Your Portfolio]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
+
+- **Email**: chandankumarnwd9060@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/chandan-kumar-12bb24284/
+- **GitHub**: https://github.com/CHANDANKUMAR45
 
 ## 📄 License
 
