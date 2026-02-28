@@ -1,10 +1,11 @@
-# ExamNotesAI 📚✨
+# AI Exam Notes Generator 📚✨
 
 An intelligent exam preparation platform that leverages AI to generate comprehensive study notes from topics. Built with modern web technologies, featuring real-time note generation, payment processing, and detailed progress tracking.
 
+
 ## 🌐 Live Demo
 
-🚀 **Frontend:** https://ai-exam-notes-generator-client.onrender.com
+🚀 **Live Application:** https://ai-exam-notes-generator-client.onrender.com
 
 
 ## 🎯 Features
