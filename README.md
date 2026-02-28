@@ -2,6 +2,9 @@
 
 An intelligent exam preparation platform that leverages AI to generate comprehensive study notes from topics. Built with modern web technologies, featuring real-time note generation, payment processing, and detailed progress tracking.
 
+## 🌐 Live Demo
+Frontend: https://ai-exam-notes-generator-client.onrender.com
+Backend API: https://ai-exam-notes-generator-server.onrender.com
 ## 🎯 Features
 
 - **AI-Powered Note Generation**: Generate detailed study notes from exam topics using Google Gemini AI
